@@ -1,4 +1,4 @@
-package com.sample.ddd.core.repository;
+package com.sample.ddd.core.ddd.repository;
 
 import java.io.Serializable;
 

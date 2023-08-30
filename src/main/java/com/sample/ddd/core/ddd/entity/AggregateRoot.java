@@ -1,4 +1,4 @@
-package com.sample.ddd.core.entity;
+package com.sample.ddd.core.ddd.entity;
 
 /**
  * 聚合根标记
